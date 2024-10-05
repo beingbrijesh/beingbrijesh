@@ -13,7 +13,8 @@ I am Learning DSA, C and Python!! <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: I Like to work on different and new ideas irrespective of sector/field.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/beingbrijesh/))
+- :mailbox:How to reach me: 
+-  <a href="https://www.linkedin.com/in/ikram-bagban-254a57243/" rel="nofollow"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beingbrijesh/" height="30" width="40" style="max-width: 100%;">
 
 - ---
 
